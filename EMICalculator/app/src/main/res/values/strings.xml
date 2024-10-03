@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EMICalculator</string>
+    <string name="mortgage_principal_amount">Mortgage Principal Amount</string>
+    <string name="payment_frequency">Payment Frequency</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="amortization_period">Amortization Period</string>
+    <string name="calculate_mortgage">Calculate Mortgage</string>
+    <string name="monthly">Monthly</string>
+    <string name="interest_hint">Interest Rate %</string>
+    <string name="see_more">Detailed View</string>
+    <string name="payment_amount">Payment Amount</string>
+    <string name="payment_suffix">/Monthly</string>
+    <string name="interest_payable">Interest Payable:</string>
+    <string name="total_payment">Total Payment</string>
+    <string name="total_desc">(Total Payment = Principal + Interest Payable)</string>
+    <string name="back_button">Back</string>
+</resources>
